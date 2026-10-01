@@ -1,2 +1,2 @@
-# Pyrthon_project
+# Python_project
 currency converter
